@@ -1,3 +1,3 @@
 Studysync-
 <br/>
-<a href="" target="_blank">Click</a>
+<a href="https://jaydhumal23.github.io/Studysync-Project/" target="_blank">Click</a>
